@@ -7,7 +7,7 @@ RUN dnf install java-1.8.0-openjdk -y
 
 RUN mkdir /task
 RUN chmod 755 /task
-RUN git clone http://10.26.1.37/ulia/lavagna.git /task
+RUN git clone https://github.com/UMuryn/bbb.git /task
 
 WORKDIR /task
 #COPY pom.xml pom.xml
