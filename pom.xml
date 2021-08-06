@@ -882,7 +882,7 @@
                 <datasource.dialect>MYSQL</datasource.dialect>
                 <!-- <datasource.driver>net.sf.log4jdbc.sql.jdbcapi.DriverSpy</datasource.driver> -->
                 <!-- <datasource.url>jdbc:log4jdbc:mysql://localhost:3306/lavagna</datasource.url> -->
-                <datasource.url>jdbc:mysql://db-route-myproject.2886795289-80-elsy07.environments.katacoda.com:3306/lavagna</datasource.url>
+                <datasource.url>jdbc:mysql://dab-new.2886795273-80-kota02.environments.katacoda.com:3306/lavagna</datasource.url>
                 <datasource.username>root</datasource.username>
                 <datasource.password />
                 <spring.profiles.active>dev</spring.profiles.active>
