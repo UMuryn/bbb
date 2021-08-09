@@ -10,7 +10,7 @@ RUN chmod 755 /task
 RUN git clone https://github.com/UMuryn/bbb.git /task
 
 WORKDIR /task
-#COPY pom.xml pom.xml
+COPY pom.xml pom.xml
 
 RUN mvn package
 
